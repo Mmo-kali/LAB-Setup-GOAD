@@ -23,3 +23,4 @@ Feel free to fork, improve, or adapt this setup for your own OSCP journey.
 **Connect with us:**  
 🔗 [Michael Nolk](https://www.linkedin.com/in/michaelnolk/)  
 🔗 [Orlando Companioni](https://www.linkedin.com/in/orlando-companioni/)
+
